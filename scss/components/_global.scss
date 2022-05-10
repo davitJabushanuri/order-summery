@@ -1,0 +1,16 @@
+* {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	box-sizing: border-box;
+}
+
+main {
+	background-image: url('../../images/pattern-background-desktop.svg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: $blue-pale;
+	padding: 0 2rem;
+}
